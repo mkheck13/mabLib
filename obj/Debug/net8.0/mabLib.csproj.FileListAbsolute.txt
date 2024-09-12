@@ -12,3 +12,4 @@ C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\mabLib\obj\Debug\n
 C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\mabLib\obj\Debug\net8.0\mabLib.pdb
 C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\mabLib\obj\Debug\net8.0\mabLib.genruntimeconfig.cache
 C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\mabLib\obj\Debug\net8.0\ref\mabLib.dll
+C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\mabLib\obj\Debug\net8.0\mabLib.sourcelink.json
